@@ -1,0 +1,1215 @@
+﻿Log file open, 11/18/17 12:31:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: NoJuice
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1563184789) SRandInit(-1563184789).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.227097
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.18-17.31.08:017][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.18-17.31.08:018][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.18-17.31.08:045][  0]LogInit: Computer: YUKI-PC
+[2017.11.18-17.31.08:045][  0]LogInit: User: yuki
+[2017.11.18-17.31.08:045][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.18-17.31.08:045][  0]LogInit: High frequency timer resolution =2.144589 MHz
+[2017.11.18-17.31.08:046][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.11.18-17.31.08:046][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.18-17.31.08:046][  0]LogMemory: Process Physical Memory: 278.53 MB used, 278.53 MB peak
+[2017.11.18-17.31.08:046][  0]LogMemory: Process Virtual Memory: 276.07 MB used, 276.07 MB peak
+[2017.11.18-17.31.08:046][  0]LogMemory: Physical Memory: 6259.40 MB used,  10111.40 MB free, 16370.80 MB total
+[2017.11.18-17.31.08:046][  0]LogMemory: Virtual Memory: 651.79 MB used,  10111.40 MB free, 8388608.00 MB total
+[2017.11.18-17.31.08:343][  0]LogInit: Using OS detected language (en-US).
+[2017.11.18-17.31.08:343][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.18-17.31.08:348][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.18-17.31.09:601][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.18-17.31.09:615][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2017.11.18-17.31.09:615][  0]LogD3D11RHI:       2024/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.11.18-17.31.09:615][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.18-17.31.09:624][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.18-17.31.09:624][  0]LogD3D11RHI:     GPU DeviceId: 0x6939 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.18-17.31.09:624][  0]LogWindows: EnumDisplayDevices:
+[2017.11.18-17.31.09:624][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2017.11.18-17.31.09:624][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.18-17.31.09:625][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.18-17.31.09:625][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.18-17.31.09:625][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.18-17.31.09:625][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.18-17.31.09:626][  0]LogWindows:    6. 'RDPDD Chained DD' (P:0 D:0)
+[2017.11.18-17.31.09:626][  0]LogWindows:    7. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.11.18-17.31.09:626][  0]LogWindows:    8. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.11.18-17.31.09:626][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2017.11.18-17.31.09:626][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2017.11.18-17.31.09:626][  0]LogD3D11RHI:   Driver Version: Catalyst 15.7.1 (internal:15.200.1062.1004, unified:15.200.1062.1004)
+[2017.11.18-17.31.09:626][  0]LogD3D11RHI:      Driver Date: 8-3-2015
+[2017.11.18-17.31.09:626][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.18-17.31.09:703][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.18-17.31.09:719][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.11.18-17.31.09:720][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Intermediate/Shaders/WorkingDirectory/2384/).
+[2017.11.18-17.31.09:720][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yuki/AppData/Local/Temp/UnrealShaderWorkingDir/99AA1FB24B54D032B34A28A1CBA57AEE/'.
+[2017.11.18-17.31.09:720][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.18-17.31.11:935][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.18-17.31.12:067][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.18-17.31.12:269][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.18-17.31.12:382][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.18-17.31.12:565][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.18-17.31.12:750][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.18-17.31.12:852][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.18-17.31.12:959][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.18-17.31.13:044][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.18-17.31.13:144][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.18-17.31.13:239][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.18-17.31.13:333][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.18-17.31.13:427][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.18-17.31.13:519][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.18-17.31.13:616][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.18-17.31.13:807][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.18-17.31.13:808][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.18-17.31.13:877][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.18-17.31.14:028][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.18-17.31.14:084][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.18-17.31.14:178][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.18-17.31.14:270][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.18-17.31.14:363][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.18-17.31.14:456][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.18-17.31.14:457][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.18-17.31.15:289][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.18-17.31.15:524][  0]LogDerivedDataCache: Loaded boot cache 0.23s 93MB C:/Users/yuki/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.18-17.31.15:524][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yuki/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.18-17.31.15:524][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.18-17.31.15:524][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.18-17.31.15:524][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.18-17.31.15:525][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.18-17.31.15:567][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.18-17.31.15:579][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yuki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.18-17.31.15:604][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.18-17.31.15:605][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.18-17.31.15:606][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.18-17.31.15:606][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.18-17.31.16:128][  0]LogAssetRegistry: FAssetRegistry took 0.0295 seconds to start up
+[2017.11.18-17.31.16:543][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.18-17.31.16:555][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.18-17.31.17:298][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.18-17.31.17:375][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.18-17.31.17:375][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.18-17.31.17:375][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.18-17.31.17:375][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.18-17.31.17:375][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.18-17.31.18:150][  0]LogNetVersion: NoJuice , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2768171891)
+[2017.11.18-17.31.18:566][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.065274 seconds
+[2017.11.18-17.31.18:582][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.18-17.31.18:582][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.11.18-17.31.18:582][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.18-17.31.18:708][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.18-17.31.23:560][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.18-17.31.23:632][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.18-17.31.24:683][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.18-17.31.25:387][  0]SourceControl: Source control is disabled
+[2017.11.18-17.31.25:387][  0]SourceControl: Source control is disabled
+[2017.11.18-17.31.25:470][  0]SourceControl: Source control is disabled
+[2017.11.18-17.31.25:551][  0]SourceControl: Source control is disabled
+[2017.11.18-17.31.26:547][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.18-17.31.26:963][  0]LogOcInput: OculusInput pre-init called
+[2017.11.18-17.31.27:403][  0]LogEngine: Initializing Engine...
+[2017.11.18-17.31.27:406][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.18-17.31.27:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.18-17.31.27:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.18-17.31.28:078][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.18-17.31.28:091][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.18-17.31.28:103][  0]LogInit: FAudioDevice initialized.
+[2017.11.18-17.31.28:325][  0]LogDerivedDataCache: Saved boot cache 0.22s 93MB C:/Users/yuki/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.18-17.31.28:360][  0]LogInit: Texture streaming: Enabled
+[2017.11.18-17.31.28:557][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.18-17.31.28:952][  0]LogInit: Transaction tracking system initialized
+[2017.11.18-17.31.29:503][  0]BlueprintLog: New page: Editor Load
+[2017.11.18-17.31.31:259][  0]LocalizationService: Localization service is disabled
+[2017.11.18-17.31.32:965][  0]LogConsoleResponse: Display: 
+[2017.11.18-17.31.33:341][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.18-17.31.33:342][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.18-17.31.33:342][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.18-17.31.33:369][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Content/' took 0.01s
+[2017.11.18-17.31.35:376][  0]SourceControl: Source control is disabled
+[2017.11.18-17.31.35:440][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.17/FeaturePacks/StarterContent.upack)
+[2017.11.18-17.31.35:465][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.11.18-17.31.35:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2017.11.18-17.31.35:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2017.11.18-17.31.35:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2017.11.18-17.31.35:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2017.11.18-17.31.35:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2017.11.18-17.31.35:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2017.11.18-17.31.35:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2017.11.18-17.31.35:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.11.18-17.31.35:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.11.18-17.31.35:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.11.18-17.31.35:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.11.18-17.31.35:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Collapse01.uasset"
+[2017.11.18-17.31.35:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Collapse02.uasset"
+[2017.11.18-17.31.35:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2017.11.18-17.31.35:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Explosion01.uasset"
+[2017.11.18-17.31.35:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Explosion02.uasset"
+[2017.11.18-17.31.35:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2017.11.18-17.31.35:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Fire01.uasset"
+[2017.11.18-17.31.35:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2017.11.18-17.31.35:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2017.11.18-17.31.35:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.11.18-17.31.35:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Light01.uasset"
+[2017.11.18-17.31.35:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2017.11.18-17.31.35:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Light02.uasset"
+[2017.11.18-17.31.35:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2017.11.18-17.31.35:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Smoke01.uasset"
+[2017.11.18-17.31.35:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2017.11.18-17.31.35:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.11.18-17.31.35:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2017.11.18-17.31.35:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2017.11.18-17.31.35:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.11.18-17.31.35:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2017.11.18-17.31.35:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2017.11.18-17.31.35:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Steam01.uasset"
+[2017.11.18-17.31.35:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2017.11.18-17.31.35:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.11.18-17.31.35:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.11.18-17.31.35:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.11.18-17.31.35:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.11.18-17.31.35:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.11.18-17.31.35:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2017.11.18-17.31.35:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.11.18-17.31.35:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2017.11.18-17.31.35:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2017.11.18-17.31.35:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2017.11.18-17.31.35:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2017.11.18-17.31.35:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2017.11.18-17.31.35:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2017.11.18-17.31.35:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2017.11.18-17.31.35:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2017.11.18-17.31.35:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2017.11.18-17.31.35:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2017.11.18-17.31.35:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2017.11.18-17.31.35:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2017.11.18-17.31.35:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Maps/Minimal_Default.umap"
+[2017.11.18-17.31.35:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2017.11.18-17.31.35:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Maps/StarterMap.umap"
+[2017.11.18-17.31.35:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2017.11.18-17.31.35:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2017.11.18-17.31.35:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2017.11.18-17.31.35:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2017.11.18-17.31.35:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.11.18-17.31.35:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.11.18-17.31.35:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.11.18-17.31.35:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.11.18-17.31.35:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.11.18-17.31.35:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.11.18-17.31.35:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.11.18-17.31.35:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.11.18-17.31.35:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.11.18-17.31.35:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2017.11.18-17.31.35:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.11.18-17.31.35:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.11.18-17.31.35:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.11.18-17.31.35:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.11.18-17.31.35:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Glass.uasset"
+[2017.11.18-17.31.35:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2017.11.18-17.31.35:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.11.18-17.31.35:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2017.11.18-17.31.35:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.11.18-17.31.35:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.11.18-17.31.35:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.11.18-17.31.35:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2017.11.18-17.31.35:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2017.11.18-17.31.35:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2017.11.18-17.31.35:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2017.11.18-17.31.35:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.11.18-17.31.35:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.11.18-17.31.35:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.11.18-17.31.35:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2017.11.18-17.31.35:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.11.18-17.31.35:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.11.18-17.31.35:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.11.18-17.31.35:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2017.11.18-17.31.35:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2017.11.18-17.31.35:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2017.11.18-17.31.35:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.11.18-17.31.35:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.11.18-17.31.35:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2017.11.18-17.31.35:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2017.11.18-17.31.35:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.11.18-17.31.35:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.11.18-17.31.35:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/P_Explosion.uasset"
+[2017.11.18-17.31.35:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/P_Fire.uasset"
+[2017.11.18-17.31.35:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/P_Smoke.uasset"
+[2017.11.18-17.31.35:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/P_Sparks.uasset"
+[2017.11.18-17.31.35:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2017.11.18-17.31.35:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2017.11.18-17.31.35:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.11.18-17.31.35:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.11.18-17.31.35:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.11.18-17.31.35:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.11.18-17.31.35:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2017.11.18-17.31.35:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.11.18-17.31.35:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.11.18-17.31.35:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.11.18-17.31.35:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2017.11.18-17.31.35:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/MaterialSphere.uasset"
+[2017.11.18-17.31.35:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_Bush.uasset"
+[2017.11.18-17.31.35:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_Chair.uasset"
+[2017.11.18-17.31.35:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2017.11.18-17.31.35:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_Couch.uasset"
+[2017.11.18-17.31.35:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_Door.uasset"
+[2017.11.18-17.31.35:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2017.11.18-17.31.35:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2017.11.18-17.31.35:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.11.18-17.31.35:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.11.18-17.31.35:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.11.18-17.31.35:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2017.11.18-17.31.35:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2017.11.18-17.31.35:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_Rock.uasset"
+[2017.11.18-17.31.35:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_Shelf.uasset"
+[2017.11.18-17.31.35:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_Stairs.uasset"
+[2017.11.18-17.31.35:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_Statue.uasset"
+[2017.11.18-17.31.35:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_TableRound.uasset"
+[2017.11.18-17.31.35:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2017.11.18-17.31.35:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2017.11.18-17.31.35:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2017.11.18-17.31.35:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2017.11.18-17.31.35:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2017.11.18-17.31.35:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2017.11.18-17.31.35:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.11.18-17.31.35:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.11.18-17.31.35:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2017.11.18-17.31.35:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2017.11.18-17.31.35:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2017.11.18-17.31.35:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.11.18-17.31.35:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2017.11.18-17.31.35:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2017.11.18-17.31.35:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2017.11.18-17.31.35:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.11.18-17.31.35:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.11.18-17.31.35:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2017.11.18-17.31.35:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.11.18-17.31.35:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.11.18-17.31.35:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2017.11.18-17.31.35:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.11.18-17.31.35:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2017.11.18-17.31.36:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2017.11.18-17.31.36:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2017.11.18-17.31.36:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.11.18-17.31.36:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.11.18-17.31.36:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.11.18-17.31.36:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2017.11.18-17.31.36:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.11.18-17.31.36:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.11.18-17.31.36:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.11.18-17.31.36:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.11.18-17.31.36:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.11.18-17.31.36:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.11.18-17.31.36:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.11.18-17.31.36:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.11.18-17.31.36:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.11.18-17.31.36:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.11.18-17.31.36:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.11.18-17.31.36:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.11.18-17.31.36:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.11.18-17.31.36:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.11.18-17.31.36:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.11.18-17.31.36:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.11.18-17.31.36:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2017.11.18-17.31.36:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2017.11.18-17.31.36:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2017.11.18-17.31.36:279][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.11.18-17.31.36:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.11.18-17.31.36:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2017.11.18-17.31.36:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2017.11.18-17.31.36:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.11.18-17.31.36:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.11.18-17.31.36:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.11.18-17.31.36:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.11.18-17.31.36:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.11.18-17.31.36:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.11.18-17.31.36:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.11.18-17.31.36:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.11.18-17.31.36:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.11.18-17.31.36:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.11.18-17.31.36:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.11.18-17.31.36:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.11.18-17.31.36:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.11.18-17.31.36:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.11.18-17.31.36:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.11.18-17.31.36:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.11.18-17.31.36:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.11.18-17.31.36:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.11.18-17.31.36:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.11.18-17.31.36:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Door_M.uasset"
+[2017.11.18-17.31.36:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Door_N.uasset"
+[2017.11.18-17.31.36:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.11.18-17.31.36:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.11.18-17.31.36:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.11.18-17.31.36:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.11.18-17.31.36:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2017.11.18-17.31.36:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2017.11.18-17.31.36:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2017.11.18-17.31.36:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.11.18-17.31.36:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.11.18-17.31.36:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.11.18-17.31.36:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.11.18-17.31.36:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.11.18-17.31.36:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.11.18-17.31.36:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2017.11.18-17.31.36:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2017.11.18-17.31.36:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2017.11.18-17.31.36:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.11.18-17.31.36:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.11.18-17.31.36:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.11.18-17.31.36:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.11.18-17.31.36:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.11.18-17.31.36:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.11.18-17.31.36:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.11.18-17.31.36:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.11.18-17.31.36:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.11.18-17.31.36:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2017.11.18-17.31.37:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2017.11.18-17.31.37:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.11.18-17.31.37:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.11.18-17.31.37:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.11.18-17.31.37:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.11.18-17.31.37:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.11.18-17.31.37:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.11.18-17.31.37:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.11.18-17.31.37:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.11.18-17.31.37:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2017.11.18-17.31.37:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2017.11.18-17.31.37:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.11.18-17.31.37:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.11.18-17.31.37:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.11.18-17.31.37:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2017.11.18-17.31.37:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2017.11.18-17.31.37:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2017.11.18-17.31.37:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2017.11.18-17.31.37:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2017.11.18-17.31.37:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.11.18-17.31.37:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.11.18-17.31.37:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.11.18-17.31.37:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.11.18-17.31.37:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.11.18-17.31.37:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.11.18-17.31.37:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Water_M.uasset"
+[2017.11.18-17.31.37:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Water_N.uasset"
+[2017.11.18-17.31.37:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.11.18-17.31.37:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.11.18-17.31.37:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.11.18-17.31.37:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.11.18-17.31.37:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.11.18-17.31.37:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.11.18-17.31.37:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.11.18-17.31.37:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.11.18-17.31.37:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.11.18-17.31.39:611][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2017.11.18-17.31.40:026][  0]LogStaticMesh: Built static mesh [1.35s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2017.11.18-17.31.42:749][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 9 NumSamples 1 (Frame:1).
+[2017.11.18-17.31.47:922][  0]LogSavePackage: Save=174.52ms
+[2017.11.18-17.31.47:922][  0]LogSavePackage: Moving '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Saved/Floor_400x4006F843869482D4D32707284A03A204167.tmp' to '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.11.18-17.31.47:931][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.11.18-17.31.47:932][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2017.11.18-17.31.47:935][  0]Cmd: MAP LOAD FILE="../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.18-17.31.47:936][  0]LightingResults: New page: Lighting Build
+[2017.11.18-17.31.48:026][  0]MapCheck: New page: Map Check
+[2017.11.18-17.31.48:026][  0]LightingResults: New page: Lighting Build
+[2017.11.18-17.31.51:837][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.11.18-17.31.52:135][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.18-17.31.52:260][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.18-17.31.52:348][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 87.591ms to complete.
+[2017.11.18-17.31.52:348][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 4.412
+[2017.11.18-17.31.53:620][  0]LogCollectionManager: Loaded 0 collections in 0.003692 seconds
+[2017.11.18-17.31.53:956][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/Collections/' took 0.01s
+[2017.11.18-17.31.53:957][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Content/Developers/yuki/Collections/' took 0.01s
+[2017.11.18-17.31.53:957][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Content/Collections/' took 0.01s
+[2017.11.18-17.31.53:957][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.18-17.31.53:979][  0]LogContentBrowser: Native class hierarchy populated in 0.0206 seconds. Added 2386 classes and 500 folders.
+[2017.11.18-17.31.54:112][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0052 seconds. Added 0 classes and 0 folders.
+[2017.11.18-17.31.54:175][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.11.18-17.31.54:353][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2017.11.18-17.31.54:918][  0]LogSlate: Took 0.000489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.18-17.31.55:016][  0]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.18-17.31.55:383][  0]LogSlate: Took 0.073414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.18-17.31.55:596][  0]LogRenderer: Reallocating scene render targets to support 488x372 Format 9 NumSamples 1 (Frame:1).
+[2017.11.18-17.31.55:930][  0]LogSlate: Took 0.000382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.18-17.31.56:180][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2017.11.18-17.31.56:180][  0]LogLoad: (Engine Initialization) Total time: 50.68 seconds
+[2017.11.18-17.31.56:180][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.18-17.31.56:181][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.18-17.31.56:181][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.18-17.31.56:439][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.18-17.31.56:628][  2]LogAssetRegistry: Asset discovery search completed in 40.5187 seconds
+[2017.11.18-17.31.56:632][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.18-17.31.56:632][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000119 seconds (updated 0 objects)
+[2017.11.18-17.32.05:114][729]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.18-17.32.05:250][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.18-17.32.05:250][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-17.32.05:315][729]PIE: New page: PIE session: TopDownExampleMap (Nov 18, 2017, 7:32:05 AM)
+[2017.11.18-17.32.05:315][729]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.11.18-17.32.05:435][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119035s)
+[2017.11.18-17.32.05:436][729]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.11.18-17.32.05:437][729]LogPlayLevel: PIE: World Init took: (0.001897s)
+[2017.11.18-17.32.05:437][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.121524s)
+[2017.11.18-17.32.05:464][729]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.18-17.32.05:473][729]LogInit: FAudioDevice initialized.
+[2017.11.18-17.32.05:570][729]LogLoad: Game class is 'TopDownGameMode_C'
+[2017.11.18-17.32.05:608][729]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.11.18-12.32.05
+[2017.11.18-17.32.05:639][729]LogWorld: Bringing up level for play took: 0.036008
+[2017.11.18-17.32.05:868][729]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2017.11.18-17.32.05:869][729]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.443
+[2017.11.18-17.32.05:870][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.18-17.32.16:416][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.18-17.32.16:535][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.18-17.32.20:408][144]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.18-17.32.20:423][144]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.18-17.32.20:423][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-17.32.20:423][144]PIE: New page: PIE session: TopDownExampleMap (Nov 18, 2017, 7:32:20 AM)
+[2017.11.18-17.32.20:423][144]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.11.18-17.32.20:468][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044711s)
+[2017.11.18-17.32.20:470][144]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.11.18-17.32.20:470][144]LogPlayLevel: PIE: World Init took: (0.001805s)
+[2017.11.18-17.32.20:470][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.047022s)
+[2017.11.18-17.32.20:492][144]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.18-17.32.20:500][144]LogInit: FAudioDevice initialized.
+[2017.11.18-17.32.20:535][144]LogLoad: Game class is 'TopDownGameMode_C'
+[2017.11.18-17.32.20:541][144]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.11.18-12.32.20
+[2017.11.18-17.32.20:542][144]LogWorld: Bringing up level for play took: 0.005852
+[2017.11.18-17.32.20:544][144]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.118
+[2017.11.18-17.32.20:545][144]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.18-17.32.41:676][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.18-17.32.41:712][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.18-17.32.42:909][417]LogSlate: Took 0.000429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.18-17.32.49:913][955]LogPlayLevel: Launcher Device ID: WindowsNoEditor@YUKI-PC
+[2017.11.18-17.32.49:980][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-17.32.50:092][955]LogCook: Display: Creating asset registry
+[2017.11.18-17.32.50:107][955]LogSlate: Took 0.001563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.18-17.32.51:004][955]LogCook: Display: Cooked content cleared for platform AllDesktop
+[2017.11.18-17.32.51:088][955]LogCook: Display: Unable to read previous cook inisettings for platform AllDesktop invalidating cook
+[2017.11.18-17.32.51:189][955]LogCook: Display: Cooked content cleared for platform MacClient
+[2017.11.18-17.32.51:189][955]LogCook: Display: Unable to read previous cook inisettings for platform MacClient invalidating cook
+[2017.11.18-17.32.51:289][955]LogCook: Display: Cooked content cleared for platform MacNoEditor
+[2017.11.18-17.32.51:289][955]LogCook: Display: Unable to read previous cook inisettings for platform MacNoEditor invalidating cook
+[2017.11.18-17.32.51:391][955]LogCook: Display: Cooked content cleared for platform MacServer
+[2017.11.18-17.32.51:391][955]LogCook: Display: Unable to read previous cook inisettings for platform MacServer invalidating cook
+[2017.11.18-17.32.51:490][955]LogCook: Display: Cooked content cleared for platform Mac
+[2017.11.18-17.32.51:490][955]LogCook: Display: Unable to read previous cook inisettings for platform Mac invalidating cook
+[2017.11.18-17.32.51:588][955]LogCook: Display: Cooked content cleared for platform WindowsClient
+[2017.11.18-17.32.51:589][955]LogCook: Display: Unable to read previous cook inisettings for platform WindowsClient invalidating cook
+[2017.11.18-17.32.51:688][955]LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2017.11.18-17.32.51:688][955]LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2017.11.18-17.32.51:787][955]LogCook: Display: Cooked content cleared for platform WindowsServer
+[2017.11.18-17.32.51:787][955]LogCook: Display: Unable to read previous cook inisettings for platform WindowsServer invalidating cook
+[2017.11.18-17.32.51:890][955]LogCook: Display: Cooked content cleared for platform Windows
+[2017.11.18-17.32.51:890][955]LogCook: Display: Unable to read previous cook inisettings for platform Windows invalidating cook
+[2017.11.18-17.32.51:993][955]LogCook: Display: Cooked content cleared for platform Android
+[2017.11.18-17.32.51:993][955]LogCook: Display: Unable to read previous cook inisettings for platform Android invalidating cook
+[2017.11.18-17.32.52:096][955]LogCook: Display: Cooked content cleared for platform Android_ASTC
+[2017.11.18-17.32.52:096][955]LogCook: Display: Unable to read previous cook inisettings for platform Android_ASTC invalidating cook
+[2017.11.18-17.32.52:205][955]LogCook: Display: Cooked content cleared for platform Android_ATC
+[2017.11.18-17.32.52:206][955]LogCook: Display: Unable to read previous cook inisettings for platform Android_ATC invalidating cook
+[2017.11.18-17.32.52:315][955]LogCook: Display: Cooked content cleared for platform Android_DXT
+[2017.11.18-17.32.52:315][955]LogCook: Display: Unable to read previous cook inisettings for platform Android_DXT invalidating cook
+[2017.11.18-17.32.52:421][955]LogCook: Display: Cooked content cleared for platform Android_ETC1
+[2017.11.18-17.32.52:421][955]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC1 invalidating cook
+[2017.11.18-17.32.52:522][955]LogCook: Display: Cooked content cleared for platform Android_ETC2
+[2017.11.18-17.32.52:522][955]LogCook: Display: Unable to read previous cook inisettings for platform Android_ETC2 invalidating cook
+[2017.11.18-17.32.52:622][955]LogCook: Display: Cooked content cleared for platform Android_Multi
+[2017.11.18-17.32.52:622][955]LogCook: Display: Unable to read previous cook inisettings for platform Android_Multi invalidating cook
+[2017.11.18-17.32.52:723][955]LogCook: Display: Cooked content cleared for platform Android_PVRTC
+[2017.11.18-17.32.52:724][955]LogCook: Display: Unable to read previous cook inisettings for platform Android_PVRTC invalidating cook
+[2017.11.18-17.32.52:825][955]LogCook: Display: Cooked content cleared for platform HTML5
+[2017.11.18-17.32.52:826][955]LogCook: Display: Unable to read previous cook inisettings for platform HTML5 invalidating cook
+[2017.11.18-17.32.52:925][955]LogCook: Display: Cooked content cleared for platform IOS
+[2017.11.18-17.32.52:925][955]LogCook: Display: Unable to read previous cook inisettings for platform IOS invalidating cook
+[2017.11.18-17.32.53:027][955]LogCook: Display: Cooked content cleared for platform TVOS
+[2017.11.18-17.32.53:027][955]LogCook: Display: Unable to read previous cook inisettings for platform TVOS invalidating cook
+[2017.11.18-17.32.53:128][955]LogCook: Display: Cooked content cleared for platform LinuxClient
+[2017.11.18-17.32.53:128][955]LogCook: Display: Unable to read previous cook inisettings for platform LinuxClient invalidating cook
+[2017.11.18-17.32.53:230][955]LogCook: Display: Cooked content cleared for platform LinuxNoEditor
+[2017.11.18-17.32.53:230][955]LogCook: Display: Unable to read previous cook inisettings for platform LinuxNoEditor invalidating cook
+[2017.11.18-17.32.53:330][955]LogCook: Display: Cooked content cleared for platform LinuxServer
+[2017.11.18-17.32.53:331][955]LogCook: Display: Unable to read previous cook inisettings for platform LinuxServer invalidating cook
+[2017.11.18-17.32.53:432][955]LogCook: Display: Cooked content cleared for platform Linux
+[2017.11.18-17.32.53:432][955]LogCook: Display: Unable to read previous cook inisettings for platform Linux invalidating cook
+[2017.11.18-17.32.53:530][955]LogCook: Display: Sandbox cleanup took 2.526 seconds for platforms AllDesktop MacClient MacNoEditor MacServer Mac WindowsClient WindowsNoEditor WindowsServer Windows Android Android_ASTC Android_ATC Android_DXT Android_ETC1 Android_ETC2 Android_Multi Android_PVRTC HTML5 IOS TVOS LinuxClient LinuxNoEditor LinuxServer Linux  iterative false
+[2017.11.18-17.32.55:599][955]LogMaterial: Verifying Global Shaders for PCD3D_SM4
+[2017.11.18-17.32.58:136][972]LogCook: Display: Cooking /Engine/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset
+[2017.11.18-17.32.58:139][972]LogSavePackage: Save=2.15ms
+[2017.11.18-17.32.58:139][972]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset'
+[2017.11.18-17.32.58:139][972]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset
+[2017.11.18-17.32.58:251][972]LogContentBrowser: Native class hierarchy updated for 'BlueprintNativeCodeGen' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2017.11.18-17.32.58:494][973]LogCook: Display: Cooking /Engine/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset
+[2017.11.18-17.32.58:497][973]LogSavePackage: Save=3.01ms
+[2017.11.18-17.32.58:497][973]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset'
+[2017.11.18-17.32.58:497][973]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset
+[2017.11.18-17.32.58:497][973]LogCook: Display: Cooking /Engine/EngineFonts/Roboto -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Roboto.uasset
+[2017.11.18-17.32.58:510][973]LogSavePackage: Save=11.71ms
+[2017.11.18-17.32.58:510][973]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Roboto.uasset'
+[2017.11.18-17.32.58:510][973]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Roboto.uasset
+[2017.11.18-17.32.58:510][973]LogCook: Display: Cooking /Engine/EngineFonts/Faces/RobotoBold -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoBold.uasset
+[2017.11.18-17.32.58:520][973]LogSavePackage: Save=9.55ms
+[2017.11.18-17.32.58:520][973]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoBold.uasset'
+[2017.11.18-17.32.58:520][973]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoBold.uasset
+[2017.11.18-17.32.58:520][973]LogCook: Display: Cooking /Engine/EngineFonts/Faces/RobotoBoldItalic -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset
+[2017.11.18-17.32.58:556][973]LogSavePackage: Save=35.16ms
+[2017.11.18-17.32.58:556][973]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset'
+[2017.11.18-17.32.58:556][973]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset
+[2017.11.18-17.32.58:573][974]LogCook: Display: Cooking /Engine/EngineFonts/Faces/RobotoItalic -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoItalic.uasset
+[2017.11.18-17.32.58:576][974]LogSavePackage: Save=2.86ms
+[2017.11.18-17.32.58:576][974]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoItalic.uasset'
+[2017.11.18-17.32.58:579][974]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoItalic.uasset
+[2017.11.18-17.32.58:591][974]LogCook: Display: Cooking /Engine/EngineFonts/Faces/RobotoLight -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoLight.uasset
+[2017.11.18-17.32.58:594][974]LogSavePackage: Save=2.88ms
+[2017.11.18-17.32.58:594][974]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoLight.uasset'
+[2017.11.18-17.32.58:594][974]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoLight.uasset
+[2017.11.18-17.32.58:594][974]LogCook: Display: Cooking /Engine/EngineFonts/Faces/RobotoRegular -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoRegular.uasset
+[2017.11.18-17.32.58:600][974]LogSavePackage: Save=5.76ms
+[2017.11.18-17.32.58:600][974]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoRegular.uasset'
+[2017.11.18-17.32.58:601][974]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineFonts/Faces/RobotoRegular.uasset
+[2017.11.18-17.32.58:601][974]LogCook: Display: Cooking /Engine/EngineMaterials/Widget3DPassThrough_Translucent -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset
+[2017.11.18-17.32.58:605][974]LogSavePackage: Save=3.89ms
+[2017.11.18-17.32.58:605][974]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset'
+[2017.11.18-17.32.58:608][974]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset
+[2017.11.18-17.32.58:608][974]LogCook: Display: Cooking /Engine/EngineMaterials/Widget3DPassThrough -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough.uasset
+[2017.11.18-17.32.58:616][974]LogSavePackage: Save=7.97ms
+[2017.11.18-17.32.58:616][974]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough.uasset'
+[2017.11.18-17.32.58:617][974]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough.uasset
+[2017.11.18-17.32.58:617][974]LogCook: Display: Cooking /Engine/EngineResources/WhiteSquareTexture -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineResources/WhiteSquareTexture.uasset
+[2017.11.18-17.32.58:619][974]LogSavePackage: Save=1.65ms
+[2017.11.18-17.32.58:619][974]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineResources/WhiteSquareTexture.uasset'
+[2017.11.18-17.32.58:619][974]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineResources/WhiteSquareTexture.uasset
+[2017.11.18-17.32.58:620][974]LogCook: Display: Cooking /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset
+[2017.11.18-17.32.58:624][974]LogSavePackage: Save=3.36ms
+[2017.11.18-17.32.58:624][974]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset'
+[2017.11.18-17.32.58:624][974]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset
+[2017.11.18-17.32.58:625][974]LogCook: Display: Cooking /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset
+[2017.11.18-17.32.58:633][974]LogSavePackage: Save=7.80ms
+[2017.11.18-17.32.58:633][974]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset'
+[2017.11.18-17.32.58:633][974]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset
+[2017.11.18-17.32.58:633][974]LogCook: Display: Cooking /Engine/EngineMaterials/WorldGridMaterial -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/WorldGridMaterial.uasset
+[2017.11.18-17.32.58:756][974]LogSavePackage: Save=122.63ms
+[2017.11.18-17.32.58:756][974]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/WorldGridMaterial.uasset'
+[2017.11.18-17.32.58:756][974]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/WorldGridMaterial.uasset
+[2017.11.18-17.32.58:939][975]LogAIModule: Creating AISystem for world Entry
+[2017.11.18-17.32.58:940][975]LogActorComponent: RegisterComponentWithWorld: (/Engine/Maps/Entry.Entry:PersistentLevel.WorldInfo_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.11.18-17.32.59:036][976]LogCook: Display: Cooking /Engine/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset
+[2017.11.18-17.32.59:038][976]LogSavePackage: Save=1.69ms
+[2017.11.18-17.32.59:038][976]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset'
+[2017.11.18-17.32.59:038][976]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset
+[2017.11.18-17.32.59:039][976]LogCook: Display: Cooking /Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset
+[2017.11.18-17.32.59:041][976]LogSavePackage: Save=2.47ms
+[2017.11.18-17.32.59:041][976]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset'
+[2017.11.18-17.32.59:042][976]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset
+[2017.11.18-17.32.59:042][976]LogCook: Display: Cooking /Engine/EngineMaterials/DefaultDeferredDecalMaterial -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset
+[2017.11.18-17.32.59:057][976]LogSavePackage: Save=15.28ms
+[2017.11.18-17.32.59:058][976]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset'
+[2017.11.18-17.32.59:058][976]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset
+[2017.11.18-17.32.59:058][976]LogCook: Display: Cooking /Engine/EngineMaterials/DefaultLightFunctionMaterial -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset
+[2017.11.18-17.32.59:062][976]LogSavePackage: Save=3.85ms
+[2017.11.18-17.32.59:062][976]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset'
+[2017.11.18-17.32.59:063][976]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset
+[2017.11.18-17.32.59:063][976]LogCook: Display: Cooking /Engine/EngineMaterials/DefaultPostProcessMaterial -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset
+[2017.11.18-17.32.59:071][976]LogSavePackage: Save=8.13ms
+[2017.11.18-17.32.59:071][976]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset'
+[2017.11.18-17.32.59:072][976]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset
+[2017.11.18-17.32.59:256][978]LogCook: Display: Cooking /Engine/EditorMaterials/TextureGridCascaded2D -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset
+[2017.11.18-17.32.59:264][978]LogSavePackage: Save=8.23ms
+[2017.11.18-17.32.59:264][978]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset'
+[2017.11.18-17.32.59:264][978]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset
+[2017.11.18-17.32.59:274][978]LogCook: Display: Cooking /Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset
+[2017.11.18-17.32.59:277][978]LogSavePackage: Save=2.17ms
+[2017.11.18-17.32.59:277][978]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset'
+[2017.11.18-17.32.59:277][978]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset
+[2017.11.18-17.32.59:370][978]LogCook: Display: Cooking /Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset
+[2017.11.18-17.32.59:373][978]LogSavePackage: Save=3.51ms
+[2017.11.18-17.32.59:374][978]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset'
+[2017.11.18-17.32.59:374][978]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset
+[2017.11.18-17.32.59:561][980]LogCook: Display: Cooking /Engine/EditorMaterials/TextureGridCascaded1D -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset
+[2017.11.18-17.32.59:563][980]LogSavePackage: Save=2.44ms
+[2017.11.18-17.32.59:564][980]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset'
+[2017.11.18-17.32.59:564][980]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset
+[2017.11.18-17.32.59:627][980]LogCook: Display: Cooking /Engine/EngineMaterials/Widget3DPassThrough_Opaque -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset
+[2017.11.18-17.32.59:630][980]LogSavePackage: Save=3.04ms
+[2017.11.18-17.32.59:630][980]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset'
+[2017.11.18-17.32.59:631][980]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset
+[2017.11.18-17.32.59:650][981]LogCook: Display: Cooking /Engine/EditorMaterials/MakeCompositeARGBLayer -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset
+[2017.11.18-17.32.59:652][981]LogSavePackage: Save=1.81ms
+[2017.11.18-17.32.59:652][981]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset'
+[2017.11.18-17.32.59:652][981]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset
+[2017.11.18-17.32.59:758][981]LogCook: Display: Cooking /Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset
+[2017.11.18-17.32.59:761][981]LogSavePackage: Save=2.97ms
+[2017.11.18-17.32.59:762][981]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset'
+[2017.11.18-17.32.59:762][981]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset
+[2017.11.18-17.32.59:779][982]LogCook: Display: Cooking /Engine/EditorMaterials/LevelGridMaterial2 -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/LevelGridMaterial2.uasset
+[2017.11.18-17.32.59:792][982]LogSavePackage: Save=12.67ms
+[2017.11.18-17.32.59:792][982]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/LevelGridMaterial2.uasset'
+[2017.11.18-17.32.59:792][982]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/LevelGridMaterial2.uasset
+[2017.11.18-17.32.59:793][982]LogCook: Display: Cooking /Engine/EngineMaterials/Widget3DPassThrough_Masked -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset
+[2017.11.18-17.32.59:797][982]LogSavePackage: Save=4.40ms
+[2017.11.18-17.32.59:797][982]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset'
+[2017.11.18-17.32.59:798][982]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset
+[2017.11.18-17.32.59:798][982]LogCook: Display: Cooking /Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset
+[2017.11.18-17.32.59:802][982]LogSavePackage: Save=3.63ms
+[2017.11.18-17.32.59:802][982]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset'
+[2017.11.18-17.32.59:802][982]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset
+[2017.11.18-17.32.59:815][982]LogCook: Display: Cooking /Engine/EngineSounds/Master -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSounds/Master.uasset
+[2017.11.18-17.32.59:816][982]LogSavePackage: Save=1.40ms
+[2017.11.18-17.32.59:816][982]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSounds/Master.uasset'
+[2017.11.18-17.32.59:816][982]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineSounds/Master.uasset
+[2017.11.18-17.32.59:817][982]LogCook: Display: Cooking /Engine/EditorMeshes/Camera/SM_CraneRig_Base -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset
+[2017.11.18-17.32.59:821][982]LogSavePackage: Save=3.99ms
+[2017.11.18-17.32.59:821][982]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset'
+[2017.11.18-17.32.59:821][982]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset
+[2017.11.18-17.32.59:847][982]LogCook: Display: Cooking /Engine/EditorMaterials/Camera/MI_CineMat_Rig -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset
+[2017.11.18-17.32.59:850][982]LogSavePackage: Save=2.73ms
+[2017.11.18-17.32.59:850][982]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset'
+[2017.11.18-17.32.59:850][982]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset
+[2017.11.18-17.32.59:851][982]LogCook: Display: Cooking /Engine/EditorMaterials/Camera/CineMat -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/Camera/CineMat.uasset
+[2017.11.18-17.32.59:864][982]LogSavePackage: Save=13.56ms
+[2017.11.18-17.32.59:865][982]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/Camera/CineMat.uasset'
+[2017.11.18-17.32.59:865][982]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/Camera/CineMat.uasset
+[2017.11.18-17.32.59:877][982]LogCook: Display: Cooking /Engine/EditorMeshes/Camera/SM_CraneRig_Arm -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset
+[2017.11.18-17.32.59:882][982]LogSavePackage: Save=4.34ms
+[2017.11.18-17.32.59:882][982]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset'
+[2017.11.18-17.32.59:882][982]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset
+[2017.11.18-17.32.59:922][983]LogCook: Display: Cooking /Engine/EditorResources/EmptyActor -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/EmptyActor.uasset
+[2017.11.18-17.32.59:924][983]LogSavePackage: Save=2.36ms
+[2017.11.18-17.32.59:925][983]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/EmptyActor.uasset'
+[2017.11.18-17.32.59:925][983]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/EmptyActor.uasset
+[2017.11.18-17.32.59:956][983]LogCook: Display: Cooking /Engine/EditorMeshes/Camera/SM_CraneRig_Mount -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset
+[2017.11.18-17.32.59:960][983]LogSavePackage: Save=4.16ms
+[2017.11.18-17.32.59:960][983]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset'
+[2017.11.18-17.32.59:960][983]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset
+[2017.11.18-17.32.59:970][983]LogCook: Display: Cooking /Engine/EditorMeshes/Camera/SM_CraneRig_Body -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset
+[2017.11.18-17.32.59:975][983]LogSavePackage: Save=5.11ms
+[2017.11.18-17.32.59:975][983]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset'
+[2017.11.18-17.32.59:976][983]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset
+[2017.11.18-17.32.59:984][983]LogCook: Display: Cooking /Engine/EditorMeshes/Camera/SM_RailRig_Track -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset
+[2017.11.18-17.32.59:990][983]LogSavePackage: Save=5.59ms
+[2017.11.18-17.32.59:990][983]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset'
+[2017.11.18-17.32.59:990][983]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset
+[2017.11.18-17.32.59:991][983]LogCook: Display: Cooking /Engine/EditorMeshes/Camera/SM_RailRig_Mount -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset
+[2017.11.18-17.32.59:998][983]LogSavePackage: Save=7.38ms
+[2017.11.18-17.32.59:998][983]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset'
+[2017.11.18-17.32.59:999][983]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset
+[2017.11.18-17.33.00:018][984]LogCook: Display: Cooking /Game/Geometry/Meshes/1M_Cube_Chamfer -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/NoJuice/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2017.11.18-17.33.00:024][984]LogSavePackage: Save=5.20ms
+[2017.11.18-17.33.00:024][984]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/NoJuice/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2017.11.18-17.33.00:024][984]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/NoJuice/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2017.11.18-17.33.00:025][984]LogCook: Display: Cooking /Engine/EditorMeshes/MatineeCam_SM -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/MatineeCam_SM.uasset
+[2017.11.18-17.33.00:038][984]LogSavePackage: Save=12.87ms
+[2017.11.18-17.33.00:038][984]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/MatineeCam_SM.uasset'
+[2017.11.18-17.33.00:038][984]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/MatineeCam_SM.uasset
+[2017.11.18-17.33.00:039][984]LogCook: Display: Cooking /Engine/EditorMaterials/MatineeCam_mat -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeCam_mat.uasset
+[2017.11.18-17.33.00:057][984]LogSavePackage: Save=17.80ms
+[2017.11.18-17.33.00:057][984]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeCam_mat.uasset'
+[2017.11.18-17.33.00:057][984]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeCam_mat.uasset
+[2017.11.18-17.33.00:057][984]LogCook: Display: Cooking /Engine/EditorMeshes/Camera/SM_CineCam -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset
+[2017.11.18-17.33.00:069][984]LogSavePackage: Save=11.99ms
+[2017.11.18-17.33.00:070][984]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset'
+[2017.11.18-17.33.00:070][984]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset
+[2017.11.18-17.33.00:070][984]LogCook: Display: Cooking /Engine/EditorMaterials/Camera/MI_CineMat_CameraBody -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset
+[2017.11.18-17.33.00:072][984]LogSavePackage: Save=2.09ms
+[2017.11.18-17.33.00:072][984]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset'
+[2017.11.18-17.33.00:073][984]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset
+[2017.11.18-17.33.00:117][984]LogCook: Display: Cooking /Engine/EditorMaterials/Camera/MI_CineMat_CamViewFinder -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset
+[2017.11.18-17.33.00:121][984]LogSavePackage: Save=3.95ms
+[2017.11.18-17.33.00:121][984]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset'
+[2017.11.18-17.33.00:121][984]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset
+[2017.11.18-17.33.00:148][985]LogCook: Display: Cooking /Game/Geometry/Meshes/CubeMaterial -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/NoJuice/Content/Geometry/Meshes/CubeMaterial.uasset
+[2017.11.18-17.33.00:154][985]LogSavePackage: Save=6.25ms
+[2017.11.18-17.33.00:154][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/NoJuice/Content/Geometry/Meshes/CubeMaterial.uasset'
+[2017.11.18-17.33.00:154][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/NoJuice/Content/Geometry/Meshes/CubeMaterial.uasset
+[2017.11.18-17.33.00:155][985]LogCook: Display: Cooking /Engine/EngineDebugMaterials/M_SimpleOpaque -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset
+[2017.11.18-17.33.00:160][985]LogSavePackage: Save=5.11ms
+[2017.11.18-17.33.00:161][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset'
+[2017.11.18-17.33.00:161][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset
+[2017.11.18-17.33.00:161][985]LogCook: Display: Cooking /Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset
+[2017.11.18-17.33.00:165][985]LogSavePackage: Save=3.44ms
+[2017.11.18-17.33.00:165][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset'
+[2017.11.18-17.33.00:165][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset
+[2017.11.18-17.33.00:165][985]LogCook: Display: Cooking /Engine/EngineDebugMaterials/M_SimpleTranslucent -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset
+[2017.11.18-17.33.00:172][985]LogSavePackage: Save=6.54ms
+[2017.11.18-17.33.00:172][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset'
+[2017.11.18-17.33.00:172][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset
+[2017.11.18-17.33.00:173][985]LogCook: Display: Cooking /Engine/VREditor/ViewportInteractionAssetContainerData -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/ViewportInteractionAssetContainerData.uasset
+[2017.11.18-17.33.00:173][985]LogSavePackage: Display: No exports found (or all exports are editor-only) for ViewportInteractionAssetContainerData. Package will not be saved.
+[2017.11.18-17.33.00:174][985]LogCook: Display: Cooking /Engine/VREditor/SnapGrid/SnapGridMaterial -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset
+[2017.11.18-17.33.00:193][985]LogSavePackage: Save=18.93ms
+[2017.11.18-17.33.00:193][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset'
+[2017.11.18-17.33.00:193][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset
+[2017.11.18-17.33.00:193][985]LogCook: Display: Cooking /Engine/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset
+[2017.11.18-17.33.00:197][985]LogSavePackage: Save=3.55ms
+[2017.11.18-17.33.00:197][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset'
+[2017.11.18-17.33.00:197][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset
+[2017.11.18-17.33.00:198][985]LogCook: Display: Cooking /Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset
+[2017.11.18-17.33.00:199][985]LogSavePackage: Save=1.55ms
+[2017.11.18-17.33.00:199][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset'
+[2017.11.18-17.33.00:200][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset
+[2017.11.18-17.33.00:200][985]LogCook: Display: Cooking /Engine/Functions/Engine_MaterialFunctions02/SplitComponents -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset
+[2017.11.18-17.33.00:202][985]LogSavePackage: Save=1.71ms
+[2017.11.18-17.33.00:202][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset'
+[2017.11.18-17.33.00:202][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset
+[2017.11.18-17.33.00:202][985]LogCook: Display: Cooking /Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3 -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset
+[2017.11.18-17.33.00:204][985]LogSavePackage: Save=1.72ms
+[2017.11.18-17.33.00:204][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset'
+[2017.11.18-17.33.00:204][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset
+[2017.11.18-17.33.00:205][985]LogCook: Display: Cooking /Engine/VREditor/TransformGizmo/TransformGizmoMaterial_Inst -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset
+[2017.11.18-17.33.00:206][985]LogSavePackage: Save=1.49ms
+[2017.11.18-17.33.00:206][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset'
+[2017.11.18-17.33.00:206][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset
+[2017.11.18-17.33.00:207][985]LogCook: Display: Cooking /Engine/VREditor/TransformGizmo/TransformGizmoMaterial -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset
+[2017.11.18-17.33.00:212][985]LogSavePackage: Save=4.95ms
+[2017.11.18-17.33.00:212][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset'
+[2017.11.18-17.33.00:212][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset
+[2017.11.18-17.33.00:213][985]LogCook: Display: Cooking /Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset
+[2017.11.18-17.33.00:215][985]LogSavePackage: Save=2.01ms
+[2017.11.18-17.33.00:215][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset'
+[2017.11.18-17.33.00:215][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset
+[2017.11.18-17.33.00:216][985]LogCook: Display: Cooking /Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset
+[2017.11.18-17.33.00:221][985]LogSavePackage: Save=5.18ms
+[2017.11.18-17.33.00:221][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset'
+[2017.11.18-17.33.00:221][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset
+[2017.11.18-17.33.00:222][985]LogCook: Display: Cooking /Engine/VREditor/SnapGrid/SnapGridPlaneMesh -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset
+[2017.11.18-17.33.00:225][985]LogSavePackage: Save=3.38ms
+[2017.11.18-17.33.00:225][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset'
+[2017.11.18-17.33.00:225][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset
+[2017.11.18-17.33.00:226][985]LogCook: Display: Cooking /Engine/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset
+[2017.11.18-17.33.00:228][985]LogSavePackage: Save=1.78ms
+[2017.11.18-17.33.00:228][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset'
+[2017.11.18-17.33.00:228][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset
+[2017.11.18-17.33.00:228][985]LogCook: Display: Cooking /Engine/VREditor/Sounds/UI/Gizmo_Handle_Clicked -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset
+[2017.11.18-17.33.00:230][985]LogSavePackage: Save=1.69ms
+[2017.11.18-17.33.00:230][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset'
+[2017.11.18-17.33.00:230][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset
+[2017.11.18-17.33.00:231][985]LogCook: Display: Cooking /Engine/VREditor/Sounds/UI/Object_PickUp -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset
+[2017.11.18-17.33.00:232][985]LogSavePackage: Save=1.62ms
+[2017.11.18-17.33.00:232][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset'
+[2017.11.18-17.33.00:233][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset
+[2017.11.18-17.33.00:233][985]LogCook: Display: Cooking /Engine/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset
+[2017.11.18-17.33.00:235][985]LogSavePackage: Save=1.90ms
+[2017.11.18-17.33.00:235][985]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset'
+[2017.11.18-17.33.00:235][985]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset
+[2017.11.18-17.33.00:381][987]LogCook: Display: Cooking /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/NoJuice/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2017.11.18-17.33.00:397][987]LogPlayLevel: Completed Launch On Stage: Cooking in the editor, Time: 3.339712
+[2017.11.18-17.33.00:436][987]LogSavePackage: Save=54.48ms
+[2017.11.18-17.33.00:436][987]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/NoJuice/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2017.11.18-17.33.00:441][987]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/NoJuice/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2017.11.18-17.33.00:441][987]LogCook: Display: Cooking /Engine/EngineMaterials/T_Default_Material_Grid_M -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset
+[2017.11.18-17.33.00:445][987]LogSavePackage: Save=3.76ms
+[2017.11.18-17.33.00:445][987]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset'
+[2017.11.18-17.33.00:446][987]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset
+[2017.11.18-17.33.00:446][987]LogCook: Display: Cooking /Engine/EngineMaterials/T_Default_Material_Grid_N -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset
+[2017.11.18-17.33.00:449][987]LogSavePackage: Save=2.95ms
+[2017.11.18-17.33.00:449][987]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset'
+[2017.11.18-17.33.00:449][987]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset
+[2017.11.18-17.33.00:450][987]LogCook: Display: Cooking /Engine/EngineMaterials/DefaultDiffuse -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultDiffuse.uasset
+[2017.11.18-17.33.00:456][987]LogSavePackage: Save=6.36ms
+[2017.11.18-17.33.00:456][987]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultDiffuse.uasset'
+[2017.11.18-17.33.00:464][987]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultDiffuse.uasset
+[2017.11.18-17.33.00:465][987]LogCook: Display: Cooking /Engine/EngineResources/DefaultTexture -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineResources/DefaultTexture.uasset
+[2017.11.18-17.33.00:468][987]LogSavePackage: Save=2.87ms
+[2017.11.18-17.33.00:468][987]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineResources/DefaultTexture.uasset'
+[2017.11.18-17.33.00:468][987]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EngineResources/DefaultTexture.uasset
+[2017.11.18-17.33.00:469][987]LogCook: Display: Cooking /Engine/EditorResources/S_Actor -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/S_Actor.uasset
+[2017.11.18-17.33.00:471][987]LogSavePackage: Save=1.90ms
+[2017.11.18-17.33.00:471][987]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/S_Actor.uasset'
+[2017.11.18-17.33.00:471][987]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/S_Actor.uasset
+[2017.11.18-17.33.00:471][987]LogCook: Display: Cooking /Engine/EditorResources/S_LevelSequence -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/S_LevelSequence.uasset
+[2017.11.18-17.33.00:473][987]LogSavePackage: Save=2.05ms
+[2017.11.18-17.33.00:473][987]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/S_LevelSequence.uasset'
+[2017.11.18-17.33.00:474][987]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/S_LevelSequence.uasset
+[2017.11.18-17.33.00:474][987]LogCook: Display: Cooking /Engine/EditorResources/MatineeCam_D -> C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/MatineeCam_D.uasset
+[2017.11.18-17.33.00:476][987]LogSavePackage: Save=1.83ms
+[2017.11.18-17.33.00:476][987]LogSavePackage: Async saving from memory to 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/MatineeCam_D.uasset'
+[2017.11.18-17.33.00:477][987]LogSavePackage: Display: Finished SavePackage C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/EditorCooked/WindowsNoEditor/Engine/Content/EditorResources/MatineeCam_D.uasset
+[2017.11.18-17.34.56:632][243]Cmd: QUIT_EDITOR
+[2017.11.18-17.34.56:680][243]LogExit: Preparing to exit.
+[2017.11.18-17.34.57:801][243]LogDirectoryWatcher: A directory notification for 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Content/' was aborted.
+[2017.11.18-17.34.57:905][243]LogExit: Editor shut down
+[2017.11.18-17.34.57:923][243]LogExit: Transaction tracking system shut down
+[2017.11.18-17.34.58:223][243]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.18-17.34.58:223][243]LogDirectoryWatcher: A directory notification for '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/' was aborted.
+[2017.11.18-17.34.58:223][243]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.18-17.34.58:224][243]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.18-17.34.58:224][243]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.18-17.34.58:345][243]LogExit: Object subsystem successfully closed.
+[2017.11.18-17.34.58:378][243]LogD3D11RHI: Shutdown
+[2017.11.18-17.34.58:378][243]LogD3D11RHI: CleanupD3DDevice
+[2017.11.18-17.34.58:439][243]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.18-17.34.58:467][243]LogModuleManager: Shutting down and abandoning module BlueprintNativeCodeGen (536)
+[2017.11.18-17.34.58:470][243]LogModuleManager: Shutting down and abandoning module LauncherServices (534)
+[2017.11.18-17.34.58:471][243]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2017.11.18-17.34.58:471][243]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.11.18-17.34.58:471][243]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.11.18-17.34.58:471][243]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.11.18-17.34.58:471][243]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.18-17.34.58:473][243]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.11.18-17.34.58:473][243]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.11.18-17.34.58:473][243]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.11.18-17.34.58:473][243]LogDirectoryWatcher: A directory notification for 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Content/Collections/' was aborted.
+[2017.11.18-17.34.58:473][243]LogDirectoryWatcher: A directory notification for 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Content/Developers/yuki/Collections/' was aborted.
+[2017.11.18-17.34.58:473][243]LogDirectoryWatcher: A directory notification for 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/Collections/' was aborted.
+[2017.11.18-17.34.58:473][243]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.11.18-17.34.58:473][243]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.11.18-17.34.58:473][243]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.11.18-17.34.58:474][243]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.11.18-17.34.58:475][243]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.11.18-17.34.58:475][243]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.11.18-17.34.58:475][243]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.11.18-17.34.58:475][243]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.11.18-17.34.58:475][243]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.11.18-17.34.58:475][243]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.11.18-17.34.58:475][243]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.11.18-17.34.58:475][243]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.11.18-17.34.58:475][243]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.11.18-17.34.58:475][243]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.11.18-17.34.58:475][243]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.11.18-17.34.58:475][243]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.11.18-17.34.58:475][243]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.11.18-17.34.58:475][243]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.11.18-17.34.58:971][243]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.11.18-17.34.58:971][243]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.11.18-17.34.58:971][243]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.11.18-17.34.58:972][243]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.11.18-17.34.58:972][243]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.11.18-17.34.58:972][243]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.11.18-17.34.58:972][243]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.11.18-17.34.58:972][243]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.11.18-17.34.58:972][243]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.11.18-17.34.58:972][243]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.11.18-17.34.58:973][243]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.11.18-17.34.58:973][243]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.11.18-17.34.58:973][243]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.11.18-17.34.58:973][243]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.11.18-17.34.58:973][243]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.11.18-17.34.58:973][243]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.11.18-17.34.58:973][243]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.11.18-17.34.58:974][243]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.11.18-17.34.58:974][243]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.11.18-17.34.58:974][243]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.11.18-17.34.58:974][243]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.11.18-17.34.58:974][243]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.11.18-17.34.58:974][243]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.11.18-17.34.58:974][243]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.11.18-17.34.59:015][243]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.11.18-17.34.59:015][243]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.11.18-17.34.59:015][243]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.11.18-17.34.59:015][243]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.11.18-17.34.59:015][243]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.11.18-17.34.59:015][243]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.11.18-17.34.59:016][243]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.11.18-17.34.59:016][243]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.11.18-17.34.59:016][243]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.11.18-17.34.59:017][243]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.11.18-17.34.59:019][243]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.11.18-17.34.59:019][243]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.11.18-17.34.59:019][243]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.11.18-17.34.59:019][243]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.11.18-17.34.59:019][243]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.11.18-17.34.59:019][243]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.11.18-17.34.59:019][243]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.11.18-17.34.59:019][243]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.11.18-17.34.59:020][243]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.11.18-17.34.59:020][243]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.11.18-17.34.59:020][243]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.11.18-17.34.59:020][243]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.11.18-17.34.59:020][243]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.11.18-17.34.59:020][243]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.11.18-17.34.59:021][243]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.11.18-17.34.59:021][243]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.11.18-17.34.59:021][243]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.11.18-17.34.59:021][243]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.11.18-17.34.59:021][243]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.11.18-17.34.59:021][243]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.11.18-17.34.59:021][243]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.11.18-17.34.59:091][243]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.11.18-17.34.59:091][243]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.11.18-17.34.59:092][243]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.11.18-17.34.59:092][243]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.11.18-17.34.59:092][243]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.11.18-17.34.59:092][243]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.11.18-17.34.59:092][243]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.11.18-17.34.59:092][243]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.11.18-17.34.59:092][243]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.11.18-17.34.59:092][243]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.11.18-17.34.59:092][243]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.11.18-17.34.59:093][243]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.11.18-17.34.59:093][243]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.11.18-17.34.59:093][243]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.11.18-17.34.59:093][243]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.11.18-17.34.59:093][243]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.11.18-17.34.59:093][243]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.11.18-17.34.59:093][243]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.11.18-17.34.59:093][243]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.11.18-17.34.59:094][243]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.11.18-17.34.59:094][243]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.11.18-17.34.59:094][243]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.11.18-17.34.59:094][243]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.11.18-17.34.59:094][243]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.11.18-17.34.59:094][243]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.11.18-17.34.59:094][243]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.11.18-17.34.59:094][243]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.11.18-17.34.59:095][243]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.11.18-17.34.59:095][243]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.11.18-17.34.59:095][243]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.11.18-17.34.59:095][243]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.11.18-17.34.59:095][243]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.11.18-17.34.59:098][243]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.11.18-17.34.59:099][243]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.11.18-17.34.59:099][243]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.11.18-17.34.59:101][243]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.11.18-17.34.59:101][243]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.11.18-17.34.59:101][243]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.11.18-17.34.59:101][243]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.11.18-17.34.59:102][243]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.11.18-17.34.59:102][243]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.11.18-17.34.59:102][243]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.11.18-17.34.59:102][243]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.11.18-17.34.59:202][243]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.11.18-17.34.59:302][243]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.11.18-17.34.59:302][243]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.11.18-17.34.59:302][243]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.11.18-17.34.59:302][243]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.11.18-17.34.59:302][243]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.11.18-17.34.59:303][243]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.11.18-17.34.59:307][243]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.11.18-17.34.59:307][243]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.11.18-17.34.59:307][243]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.11.18-17.34.59:307][243]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.11.18-17.34.59:337][243]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.11.18-17.34.59:338][243]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.11.18-17.34.59:338][243]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.11.18-17.34.59:339][243]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.11.18-17.34.59:339][243]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.11.18-17.34.59:339][243]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.11.18-17.34.59:339][243]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.11.18-17.34.59:340][243]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.11.18-17.34.59:340][243]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.11.18-17.34.59:340][243]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.11.18-17.34.59:340][243]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.11.18-17.34.59:340][243]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.11.18-17.34.59:340][243]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.11.18-17.34.59:341][243]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.11.18-17.34.59:341][243]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.11.18-17.34.59:341][243]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.11.18-17.34.59:341][243]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.11.18-17.34.59:341][243]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.11.18-17.34.59:341][243]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.11.18-17.34.59:341][243]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.11.18-17.34.59:352][243]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.11.18-17.34.59:352][243]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.11.18-17.34.59:353][243]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.11.18-17.34.59:353][243]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.11.18-17.34.59:353][243]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.11.18-17.34.59:353][243]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.11.18-17.34.59:353][243]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.18-17.34.59:353][243]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.11.18-17.34.59:353][243]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.11.18-17.34.59:353][243]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.11.18-17.34.59:353][243]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.11.18-17.34.59:354][243]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.11.18-17.34.59:354][243]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.11.18-17.34.59:354][243]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.11.18-17.34.59:354][243]LogModuleManager: Shutting down and abandoning module LevelSequence (148)
+[2017.11.18-17.34.59:354][243]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.11.18-17.34.59:357][243]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.11.18-17.34.59:458][243]LogDerivedDataCache: Shutdown
+[2017.11.18-17.34.59:458][243]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.11.18-17.34.59:459][243]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.11.18-17.34.59:459][243]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.11.18-17.34.59:459][243]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.11.18-17.34.59:459][243]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.11.18-17.34.59:459][243]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.11.18-17.34.59:459][243]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.11.18-17.34.59:459][243]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.11.18-17.34.59:459][243]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.11.18-17.34.59:459][243]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.11.18-17.34.59:460][243]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.11.18-17.34.59:460][243]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.11.18-17.34.59:460][243]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.11.18-17.34.59:460][243]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.11.18-17.34.59:460][243]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.11.18-17.34.59:460][243]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.11.18-17.34.59:460][243]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.11.18-17.34.59:460][243]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.11.18-17.34.59:460][243]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.11.18-17.34.59:461][243]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.11.18-17.34.59:461][243]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.11.18-17.34.59:461][243]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.11.18-17.34.59:461][243]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.11.18-17.34.59:461][243]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.11.18-17.34.59:461][243]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.11.18-17.34.59:461][243]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.11.18-17.34.59:461][243]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.11.18-17.34.59:461][243]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.11.18-17.34.59:461][243]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.11.18-17.34.59:461][243]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.11.18-17.34.59:461][243]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.11.18-17.34.59:462][243]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.11.18-17.34.59:462][243]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.11.18-17.34.59:462][243]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.11.18-17.34.59:462][243]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.11.18-17.34.59:462][243]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.11.18-17.34.59:462][243]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.11.18-17.34.59:462][243]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.11.18-17.34.59:462][243]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.11.18-17.34.59:462][243]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.11.18-17.34.59:462][243]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.11.18-17.34.59:462][243]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.11.18-17.34.59:462][243]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.11.18-17.34.59:463][243]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.11.18-17.34.59:463][243]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.11.18-17.34.59:463][243]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.11.18-17.34.59:463][243]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.11.18-17.34.59:463][243]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.18-17.34.59:463][243]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.18-17.34.59:463][243]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.18-17.34.59:463][243]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.18-17.34.59:464][243]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.18-17.34.59:464][243]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.18-17.34.59:464][243]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5D7C1900-4745-9F49-2E5D-6D97DD5706B9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=a7f6e02f4d7d5c77fcc49d941999fd52%7Cac54409eb8f84a88a960bed5c618adef%7Cdd91a2ba-407a-4dcc-a55e-706c927727ec&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.18-17.34.59:491][243]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.18-17.34.59:497][243]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.18-17.34.59:497][243]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.18-17.34.59:497][243]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.18-17.34.59:497][243]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.18-17.34.59:498][243]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.18-17.34.59:498][243]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.18-17.34.59:498][243]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.18-17.34.59:502][243]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.18-17.34.59:502][243]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.18-17.34.59:502][243]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.18-17.34.59:502][243]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.18-17.34.59:502][243]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.18-17.34.59:503][243]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.18-17.34.59:503][243]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.18-17.34.59:503][243]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.18-17.34.59:503][243]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.18-17.34.59:503][243]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.18-17.34.59:503][243]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.18-17.34.59:514][243]LogExit: Exiting.
+[2017.11.18-17.34.59:536][243]Log file closed, 11/18/17 12:34:59
