@@ -1,0 +1,467 @@
+﻿Log file open, 11/18/17 23:44:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: NoJuice
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-810416558) SRandInit(-810416558).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.219853
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.19-04.44.32:221][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.19-04.44.32:221][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.19-04.44.32:238][  0]LogInit: Computer: YUKI-PC
+[2017.11.19-04.44.32:238][  0]LogInit: User: yuki
+[2017.11.19-04.44.32:238][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.19-04.44.32:238][  0]LogInit: High frequency timer resolution =2.144589 MHz
+[2017.11.19-04.44.32:239][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.11.19-04.44.32:239][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.19-04.44.32:239][  0]LogMemory: Process Physical Memory: 277.84 MB used, 277.84 MB peak
+[2017.11.19-04.44.32:239][  0]LogMemory: Process Virtual Memory: 276.13 MB used, 276.13 MB peak
+[2017.11.19-04.44.32:239][  0]LogMemory: Physical Memory: 5798.04 MB used,  10572.76 MB free, 16370.80 MB total
+[2017.11.19-04.44.32:239][  0]LogMemory: Virtual Memory: 651.79 MB used,  10572.76 MB free, 8388608.00 MB total
+[2017.11.19-04.44.32:519][  0]LogInit: Using OS detected language (en-US).
+[2017.11.19-04.44.32:519][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.19-04.44.32:524][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.19-04.44.33:673][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.19-04.44.33:690][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2017.11.19-04.44.33:690][  0]LogD3D11RHI:       2024/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.11.19-04.44.33:690][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.19-04.44.33:704][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.19-04.44.33:704][  0]LogD3D11RHI:     GPU DeviceId: 0x6939 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.19-04.44.33:704][  0]LogWindows: EnumDisplayDevices:
+[2017.11.19-04.44.33:705][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2017.11.19-04.44.33:705][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.19-04.44.33:705][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.19-04.44.33:705][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.19-04.44.33:706][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.19-04.44.33:706][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.11.19-04.44.33:706][  0]LogWindows:    6. 'RDPDD Chained DD' (P:0 D:0)
+[2017.11.19-04.44.33:706][  0]LogWindows:    7. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.11.19-04.44.33:706][  0]LogWindows:    8. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.11.19-04.44.33:707][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2017.11.19-04.44.33:707][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2017.11.19-04.44.33:707][  0]LogD3D11RHI:   Driver Version: Catalyst 15.7.1 (internal:15.200.1062.1004, unified:15.200.1062.1004)
+[2017.11.19-04.44.33:707][  0]LogD3D11RHI:      Driver Date: 8-3-2015
+[2017.11.19-04.44.33:707][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.19-04.44.33:787][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.19-04.44.33:802][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.11.19-04.44.33:803][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Intermediate/Shaders/WorkingDirectory/6776/).
+[2017.11.19-04.44.33:803][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yuki/AppData/Local/Temp/UnrealShaderWorkingDir/0B38686C4659DE648406D9B58CED7E81/'.
+[2017.11.19-04.44.33:803][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.19-04.44.36:298][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.19-04.44.36:398][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.19-04.44.36:495][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.19-04.44.36:590][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.19-04.44.36:687][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.19-04.44.36:784][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.19-04.44.36:879][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.19-04.44.36:975][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.19-04.44.37:057][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.19-04.44.37:150][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.19-04.44.37:244][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.19-04.44.37:337][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.19-04.44.37:429][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.19-04.44.37:521][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.19-04.44.37:613][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.19-04.44.37:798][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.19-04.44.37:799][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.19-04.44.37:866][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.19-04.44.38:014][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.19-04.44.38:070][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.19-04.44.38:164][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.19-04.44.38:255][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.19-04.44.38:347][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.19-04.44.38:440][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.19-04.44.38:440][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.19-04.44.39:308][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.19-04.44.39:547][  0]LogDerivedDataCache: Loaded boot cache 0.24s 93MB C:/Users/yuki/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.19-04.44.39:547][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yuki/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.19-04.44.39:547][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.19-04.44.39:547][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.19-04.44.39:548][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.19-04.44.39:548][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.19-04.44.39:589][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.19-04.44.39:601][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yuki/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.19-04.44.39:626][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.19-04.44.39:627][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.19-04.44.39:628][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.19-04.44.39:628][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.19-04.44.40:146][  0]LogAssetRegistry: FAssetRegistry took 0.0297 seconds to start up
+[2017.11.19-04.44.40:547][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.19-04.44.40:557][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.19-04.44.41:251][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.19-04.44.41:324][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.19-04.44.41:324][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.19-04.44.41:324][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.19-04.44.41:324][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.19-04.44.41:324][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.19-04.44.42:041][  0]LogNetVersion: NoJuice , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2768171891)
+[2017.11.19-04.44.42:436][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.069575 seconds
+[2017.11.19-04.44.42:449][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.19-04.44.42:450][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.11.19-04.44.42:450][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.19-04.44.42:558][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.19-04.44.47:620][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.19-04.44.47:678][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.19-04.44.48:727][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.19-04.44.49:445][  0]SourceControl: Source control is disabled
+[2017.11.19-04.44.49:445][  0]SourceControl: Source control is disabled
+[2017.11.19-04.44.49:528][  0]SourceControl: Source control is disabled
+[2017.11.19-04.44.49:609][  0]SourceControl: Source control is disabled
+[2017.11.19-04.44.50:628][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.19-04.44.51:304][  0]LogOcInput: OculusInput pre-init called
+[2017.11.19-04.44.51:786][  0]LogEngine: Initializing Engine...
+[2017.11.19-04.44.51:790][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.19-04.44.52:661][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.19-04.44.52:661][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.19-04.44.52:889][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.19-04.44.52:904][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.19-04.44.52:917][  0]LogInit: FAudioDevice initialized.
+[2017.11.19-04.44.53:112][  0]LogDerivedDataCache: Saved boot cache 0.19s 93MB C:/Users/yuki/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.19-04.44.53:145][  0]LogInit: Texture streaming: Enabled
+[2017.11.19-04.44.53:355][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.19-04.44.53:757][  0]LogInit: Transaction tracking system initialized
+[2017.11.19-04.44.54:326][  0]BlueprintLog: New page: Editor Load
+[2017.11.19-04.44.55:920][  0]LocalizationService: Localization service is disabled
+[2017.11.19-04.44.57:577][  0]LogConsoleResponse: Display: 
+[2017.11.19-04.44.57:903][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.19-04.44.57:903][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.19-04.44.57:904][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.19-04.44.57:999][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Content/' took 0.02s
+[2017.11.19-04.45.00:058][  0]SourceControl: Source control is disabled
+[2017.11.19-04.45.00:058][  0]Cmd: MAP LOAD FILE="../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.19-04.45.00:059][  0]LightingResults: New page: Lighting Build
+[2017.11.19-04.45.00:162][  0]MapCheck: New page: Map Check
+[2017.11.19-04.45.00:162][  0]LightingResults: New page: Lighting Build
+[2017.11.19-04.45.01:137][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.11.19-04.45.01:155][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.19-04.45.01:210][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.19-04.45.01:300][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.982ms to complete.
+[2017.11.19-04.45.01:301][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 1.243
+[2017.11.19-04.45.01:536][  0]LogCollectionManager: Loaded 0 collections in 0.002670 seconds
+[2017.11.19-04.45.01:650][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Saved/Collections/' took 0.01s
+[2017.11.19-04.45.01:650][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Content/Developers/yuki/Collections/' took 0.01s
+[2017.11.19-04.45.01:650][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuki/Documents/Unreal Projects/NoJuice/Content/Collections/' took 0.01s
+[2017.11.19-04.45.01:650][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.11.19-04.45.01:670][  0]LogContentBrowser: Native class hierarchy populated in 0.0193 seconds. Added 2386 classes and 500 folders.
+[2017.11.19-04.45.01:781][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2017.11.19-04.45.01:841][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2017.11.19-04.45.01:918][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2017.11.19-04.45.02:064][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2017.11.19-04.45.02:065][  0]LogLoad: (Engine Initialization) Total time: 32.22 seconds
+[2017.11.19-04.45.02:065][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.19-04.45.02:065][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.19-04.45.02:065][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.19-04.45.02:432][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.19-04.45.02:434][  0]LogSlate: Took 0.000391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.19-04.45.02:438][  0]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.19-04.45.02:450][  0]LogSlate: Took 0.000540 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.19-04.45.02:617][  0]LogSlate: Took 0.000460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.19-04.45.02:769][  1]LogRenderer: Reallocating scene render targets to support 480x360 Format 9 NumSamples 1 (Frame:1).
+[2017.11.19-04.45.03:346][  2]LogAssetRegistry: Asset discovery search completed in 23.2197 seconds
+[2017.11.19-04.45.03:350][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.19-04.45.03:350][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000130 seconds (updated 0 objects)
+[2017.11.19-04.45.03:689][  3]LogSlate: Took 0.000608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.19-05.00.58:546][203]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.19-05.00.59:117][203]LogSlate: Took 0.000457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.19-05.00.59:300][203]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 113 classes and 0 folders.
+[2017.11.19-05.02.54:116][819]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.19-05.03.00:412][327]LogRenderer: Reallocating scene render targets to support 600x568 Format 9 NumSamples 1 (Frame:1).
+[2017.11.19-05.03.00:964][378]LogSlate: Took 0.000390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.19-05.03.36:563][210]BlueprintLog: New page: Compile Kiosk
+[2017.11.19-05.04.31:530][363]BlueprintLog: New page: Compile Kiosk
+[2017.11.19-05.05.51:215][ 28]BlueprintLog: New page: Compile Kiosk
+[2017.11.19-05.06.11:664][382]LogSlate: Took 0.000384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.19-05.08.44:016][958]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.034
+[2017.11.19-05.08.44:020][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Kiosk] ([1] browsable assets)...
+[2017.11.19-05.08.44:020][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Kiosk]
+[2017.11.19-05.08.44:020][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Kiosk" FILE="../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Saved/Autosaves/Game/Blueprints/Kiosk_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.11.19-05.08.44:042][958]LogSavePackage: Save=18.51ms
+[2017.11.19-05.08.44:043][958]LogSavePackage: Moving '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Saved/Kiosk_Auto182666A024F9D6A48201CC2A7AE5B1385.tmp' to '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Saved/Autosaves/Game/Blueprints/Kiosk_Auto1.uasset'
+[2017.11.19-05.08.44:044][958]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Saved/Autosaves/Game/Blueprints/Kiosk_Auto1.uasset
+[2017.11.19-05.08.44:044][958]LogFileHelpers: Auto-saving content packages took 0.026
+[2017.11.19-05.09.36:613][363]LogStaticMesh: Building static mesh Cart...
+[2017.11.19-05.09.36:640][363]LogStaticMesh: Built static mesh [0.03s] /Game/Objects/Cart.Cart
+[2017.11.19-05.09.36:666][363]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2017.11.19-05.10.35:778][376]LogRenderer: Reallocating scene render targets to support 604x568 Format 9 NumSamples 1 (Frame:1).
+[2017.11.19-05.11.00:710][781]BlueprintLog: New page: Compile Cart
+[2017.11.19-05.15.50:569][659]LogLinker: Warning: Can't find file '/Game/Blueprints/Kiosk'
+[2017.11.19-05.15.50:569][659]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Kiosk' while loading ../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/Blueprints/SpawnHere.uasset.
+[2017.11.19-05.15.50:569][659]LoadErrors: Error: /Game/Blueprints/SpawnHere : Can't find file for asset. /Game/Blueprints/Kiosk
+[2017.11.19-05.15.50:571][659]LogLinker: Warning: Can't find file '/Game/Blueprints/Kiosk'
+[2017.11.19-05.15.50:572][659]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Kiosk' while loading ../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/Blueprints/SpawnHere.uasset.
+[2017.11.19-05.15.50:573][659]LogLinker: Warning: Can't find file '/Game/Blueprints/Kiosk'
+[2017.11.19-05.15.50:573][659]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Kiosk' while loading NULL.
+[2017.11.19-05.15.50:573][659]LogLinker: Warning: Can't find file '/Game/Blueprints/Kiosk'
+[2017.11.19-05.15.50:573][659]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Kiosk' while loading NULL.
+[2017.11.19-05.15.50:576][659]LogLinker: Warning: Can't find file '/Game/Blueprints/Kiosk'
+[2017.11.19-05.15.50:576][659]LoadErrors: Failed to load /Game/Blueprints/Kiosk.Kiosk_C Referenced by K2Node_SpawnActorFromClass_0
+[2017.11.19-05.15.50:576][659]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Kiosk' while loading NULL.
+[2017.11.19-05.15.50:577][659]LogLinker: Warning: Can't find file '/Game/Blueprints/Kiosk'
+[2017.11.19-05.15.50:577][659]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Kiosk' while loading NULL.
+[2017.11.19-05.15.50:582][659]LogBlueprint: Error: [Compiler SpawnHere] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2017.11.19-05.15.50:582][659]LogBlueprint: Warning: [Compiler SpawnHere] Input pin  Instigator  specifying non-default value no longer exists on this node. Please refresh node or reset pin to default value to remove pin.
+[2017.11.19-05.15.50:584][659]LogBlueprint: Warning: [Compiler SpawnHere] [1880.73] Compile of SpawnHere failed. 1 Fatal Issue(s) 1 Warning(s) [in 6 ms] (/Game/Blueprints/SpawnHere.SpawnHere)
+[2017.11.19-05.16.10:642][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SpawnHere" FILE="../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/Blueprints/SpawnHere.uasset" SILENT=true
+[2017.11.19-05.16.10:683][285]LogSavePackage: Save=36.50ms
+[2017.11.19-05.16.10:683][285]LogSavePackage: Moving '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Saved/SpawnHere041D6649409BAC250EEC24B18645C243.tmp' to '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/Blueprints/SpawnHere.uasset'
+[2017.11.19-05.16.10:684][285]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/Blueprints/SpawnHere.uasset
+[2017.11.19-05.16.21:842][198]BlueprintLog: New page: Compile SpawnHere
+[2017.11.19-05.17.39:191][ 85]BlueprintLog: New page: Compile SpawnHere
+[2017.11.19-05.17.48:091][711]LogTemp: Repeating last play command: Standalone Game
+[2017.11.19-05.17.50:969][711]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.11.19-05.17.52:860][838]LogTemp: Repeating last play command: Standalone Game
+[2017.11.19-05.17.54:180][838]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.11.19-05.17.59:501][161]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.19-05.17.59:501][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-05.17.59:502][161]PIE: New page: PIE session: TopDownExampleMap (Nov 18, 2017, 7:17:59 PM)
+[2017.11.19-05.17.59:502][161]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.11.19-05.17.59:545][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043249s)
+[2017.11.19-05.17.59:548][161]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.11.19-05.17.59:549][161]LogPlayLevel: PIE: World Init took: (0.003232s)
+[2017.11.19-05.17.59:549][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.047007s)
+[2017.11.19-05.17.59:587][161]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.19-05.17.59:596][161]LogInit: FAudioDevice initialized.
+[2017.11.19-05.17.59:642][161]LogLoad: Game class is 'TopDownGameMode_C'
+[2017.11.19-05.17.59:652][161]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.11.19-00.17.59
+[2017.11.19-05.17.59:653][161]LogWorld: Bringing up level for play took: 0.007324
+[2017.11.19-05.17.59:732][161]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2017.11.19-05.17.59:734][161]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.046
+[2017.11.19-05.17.59:734][161]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.19-05.18.05:989][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.19-05.18.06:045][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.19-05.18.06:357][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.19-05.18.10:984][ 66]LogEditorViewport: Clicking on Actor (LMB): SpawnHere_C (SpawnHere)
+[2017.11.19-05.18.21:149][854]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.19-05.18.21:182][854]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.19-05.18.21:182][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-05.18.21:182][854]PIE: New page: PIE session: TopDownExampleMap (Nov 18, 2017, 7:18:21 PM)
+[2017.11.19-05.18.21:182][854]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2017.11.19-05.18.21:233][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050810s)
+[2017.11.19-05.18.21:235][854]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2017.11.19-05.18.21:236][854]LogPlayLevel: PIE: World Init took: (0.002260s)
+[2017.11.19-05.18.21:236][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.053564s)
+[2017.11.19-05.18.21:273][854]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.19-05.18.21:282][854]LogInit: FAudioDevice initialized.
+[2017.11.19-05.18.21:322][854]LogLoad: Game class is 'TopDownGameMode_C'
+[2017.11.19-05.18.21:328][854]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2017.11.19-00.18.21
+[2017.11.19-05.18.21:329][854]LogWorld: Bringing up level for play took: 0.005860
+[2017.11.19-05.18.21:332][854]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.449
+[2017.11.19-05.18.21:333][854]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.19-05.18.40:872][699]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.19-05.18.40:928][699]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2017.11.19-05.19.01:402][281]LogMetaData: Removing '/Game/Blueprints/SpawnHereCart.SpawnHereCart:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/SpawnHere.PackageMetaData'
+[2017.11.19-05.19.01:402][281]LogMetaData: Removing '/Game/Blueprints/SpawnHereCart.SpawnHereCart_C' ref from Metadata '/Game/Blueprints/SpawnHere.PackageMetaData'
+[2017.11.19-05.19.01:402][281]LogMetaData: Removing '/Game/Blueprints/SpawnHereCart.SpawnHereCart:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/SpawnHere.PackageMetaData'
+[2017.11.19-05.19.01:402][281]LogMetaData: Removing '/Game/Blueprints/SpawnHereCart.SpawnHereCart:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/SpawnHere.PackageMetaData'
+[2017.11.19-05.19.01:403][281]LogMetaData: Removing '/Game/Blueprints/SpawnHereCart.SpawnHereCart:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/SpawnHere.PackageMetaData'
+[2017.11.19-05.19.01:403][281]LogMetaData: Removing '/Game/Blueprints/SpawnHereCart.SKEL_SpawnHereCart_C' ref from Metadata '/Game/Blueprints/SpawnHere.PackageMetaData'
+[2017.11.19-05.19.01:432][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SpawnHereCart" FILE="../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/Blueprints/SpawnHereCart.uasset" SILENT=true
+[2017.11.19-05.19.01:471][281]LogSavePackage: Save=37.47ms
+[2017.11.19-05.19.01:471][281]LogSavePackage: Moving '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Saved/SpawnHereCartF9EADDA54A32704609C1F9A1EC0F79E7.tmp' to '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/Blueprints/SpawnHereCart.uasset'
+[2017.11.19-05.19.01:473][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/Blueprints/SpawnHereCart.uasset
+[2017.11.19-05.19.08:249][747]Cmd: TRANSACTION UNDO
+[2017.11.19-05.19.08:249][747]LogEditorTransaction: Undo Edit Spawn Chance
+[2017.11.19-05.19.11:391][974]Cmd: TRANSACTION UNDO
+[2017.11.19-05.19.11:392][974]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.19-05.19.11:952][995]Cmd: TRANSACTION UNDO
+[2017.11.19-05.19.11:952][995]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.19-05.19.12:315][ 20]Cmd: TRANSACTION UNDO
+[2017.11.19-05.19.12:315][ 20]LogEditorTransaction: Undo Change Number Pin Value
+[2017.11.19-05.19.12:618][ 40]Cmd: TRANSACTION UNDO
+[2017.11.19-05.19.12:618][ 40]LogEditorTransaction: Undo Create Pin Link
+[2017.11.19-05.19.12:948][ 64]Cmd: TRANSACTION UNDO
+[2017.11.19-05.19.12:948][ 64]LogEditorTransaction: Undo Create Actors
+[2017.11.19-05.19.19:856][688]LogSavePackage: Save=158.32ms
+[2017.11.19-05.19.19:856][688]LogSavePackage: Moving '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Saved/TopDownExampleMapEE5EDE80475B1589322FDAB18F84F000.tmp' to '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2017.11.19-05.19.19:862][688]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2017.11.19-05.19.20:151][688]LogSavePackage: Save=234.69ms
+[2017.11.19-05.19.20:151][688]LogSavePackage: Moving '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Saved/TopDownExampleMap_BuiltDataE6C6D7834314F83533A8DE9CCEBB097D.tmp' to '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2017.11.19-05.19.20:156][688]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2017.11.19-05.19.37:125][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Cart" FILE="../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/Blueprints/Cart.uasset" SILENT=true
+[2017.11.19-05.19.37:160][208]LogSavePackage: Save=32.78ms
+[2017.11.19-05.19.37:160][208]LogSavePackage: Moving '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Saved/Cart5053A0574F8B2A11446128B58BE20C34.tmp' to '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/Blueprints/Cart.uasset'
+[2017.11.19-05.19.37:163][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/Blueprints/Cart.uasset
+[2017.11.19-05.19.37:169][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SpawnHereCart" FILE="../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/Blueprints/SpawnHereCart.uasset" SILENT=true
+[2017.11.19-05.19.37:211][208]LogSavePackage: Save=37.92ms
+[2017.11.19-05.19.37:211][208]LogSavePackage: Moving '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Saved/SpawnHereCartD1F818394264476D6FFE32BD4BD1BAD8.tmp' to '../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/Blueprints/SpawnHereCart.uasset'
+[2017.11.19-05.19.37:214][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/yuki/Documents/Unreal Projects/NoJuice/Content/Blueprints/SpawnHereCart.uasset
+[2017.11.19-05.19.37:531][208]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.315 s
+[2017.11.19-05.19.37:531][208]LogOutputDevice: Error: === Handled ensure: ===
+[2017.11.19-05.19.37:531][208]LogOutputDevice: Error: 
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWindow.cpp] [Line: 1114]
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: This window does not support overlays. The added slot will not be visible!
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: Stack: 
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D69E3E36
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D676C2D2
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D6784746
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x00000000D95E8777
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-OutputLog.dll!0x00000000BF18D5B2
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CF31C414
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CEDABAE7
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D84D7DD0
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D8516850
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-MainFrame.dll!0x00000000C10B8A95
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-MainFrame.dll!0x00000000C109280A
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-MainFrame.dll!0x00000000C10A83B1
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D84E4987
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D85180FE
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D8509B18
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D69BB498
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D69A3EE1
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D69BD5BB
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D699F042
+[2017.11.19-05.19.37:532][208]LogOutputDevice: Error: USER32.dll!0x0000000077659C11
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: USER32.dll!0x000000007765992A
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D69BDC29
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D853C576
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D853B326
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CEE2FC13
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CEDFF8E3
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D67E6ABC
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D67D9FE4
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D6840127
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D683623A
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CEAA4FE4
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CEAA5388
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CEAE0380
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CEADCDD8
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CF355309
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CEDD49A0
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CEE015CA
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CEDD4EE8
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000CEE15943
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-MainFrame.dll!0x00000000C10A3EE0
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-MainFrame.dll!0x00000000C10A442E
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-SlateCore.dll!0x00000000D967BD55
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D84D7431
+[2017.11.19-05.19.37:533][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D8484C32
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D8485F39
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D84E5275
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D867B967
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D86A74D4
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D84C42BC
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D8497145
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D8531452
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D8519C92
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D850B68F
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D69BB759
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D69A3EE1
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D69BD5BB
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D699F042
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: USER32.dll!0x0000000077659C11
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: USER32.dll!0x000000007765992A
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D69BDCC6
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor.exe!0x000000003F394BE2
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor.exe!0x000000003F3A3970
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor.exe!0x000000003F3A39EA
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor.exe!0x000000003F3B02D9
+[2017.11.19-05.19.37:534][208]LogOutputDevice: Error: UE4Editor.exe!0x000000003F3B1C47
+[2017.11.19-05.19.37:535][208]LogOutputDevice: Error: kernel32.dll!0x00000000775359BD
+[2017.11.19-05.19.37:535][208]LogOutputDevice: Error: ntdll.dll!0x000000007776A2E1
+[2017.11.19-05.19.37:535][208]LogOutputDevice: Error: 
+[2017.11.19-05.19.37:538][208]LogStats:                SubmitErrorReport -  0.000 s
